@@ -11,7 +11,7 @@ entities.
 |   #   | File                       | Description                                                |
 | :---: | -------------------------- | ---------------------------------------------------------- |
 |   1   | [BookstoreDDL.sql](./BookstoreDDL.sql)     | Data definition language for the bookstore database                                            |
-|   2   | [BookstoreDDL.sql](./BookstoreDDL.sql)           | Data manipulation language for the bookstore database                     |
+|   2   | [BookstoreDML.sql](./BookstoreDML.sql)           | Data manipulation language for the bookstore database                     |
 |   4   | [BookstoreSQL.sql](./BookstoreSQL.sql)   | SQL for the bookstore database                                      |
 
 ### Instructions
