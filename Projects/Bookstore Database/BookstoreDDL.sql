@@ -1,5 +1,5 @@
 #Ryan Crawford
-#This file contains the DDL and DML for the Bookstore Database. 
+#This file contains the DDL for the Bookstore Database. 
 #This database keeps track of all available books in the book store, along with
 #information about each book such as author, genre, etc. Employees, customers, orders,
 #and placed orders along with relevant information for each are also all recorded 
